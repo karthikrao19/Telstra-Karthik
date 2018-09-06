@@ -16,3 +16,5 @@ USed Library
 3. Recyclerview: Display list of Articles
 4. Cardview: To Design the Row view
 5. Butterknife: For View injection
+
+* Noticed some of image is not loading and titles, Description is NUll in Json response
