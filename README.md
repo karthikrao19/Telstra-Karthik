@@ -1,4 +1,4 @@
-# NYTimes
+# Telstra
 Assessment- Load the Data with Recycler view
 
 
