@@ -1,6 +1,4 @@
-# Telstra
-Assessment- Load the Data with Recycler view
-
+# Telstra - Load the Data with Recycler view
 
 Steps to run the project:
 
@@ -18,5 +16,3 @@ USed Library
 3. Recyclerview: Display list of Articles
 4. Cardview: To Design the Row view
 5. Butterknife: For View injection
-
-I did not cover unit test cases due to Release work in office.
