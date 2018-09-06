@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Telstra</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="noInternetConnection">No internet connection!</string>
+    <string name="pleaseTryAgain">Please try again Later</string>
+    <string name="title_activity_home">Telstra</string>
+    <string name="title_activity_details">Details</string>
+    <string name="Rs">\u20B9</string>
+    <string name="title_activity_image">Gallery</string>
+    <string name="noInternet">Switch on your Internet Connection and press Refresh button.</string>
+
+</resources>

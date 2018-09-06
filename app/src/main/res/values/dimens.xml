@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="divider">1dp</dimen>
+    <dimen name="leftmargin">10dp</dimen>
+    <dimen name="rightmargin">10dp</dimen>
+</resources>
